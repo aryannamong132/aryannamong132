@@ -1,4 +1,4 @@
-## welcome
+## hey there!
 
 my name is aryanna and i'm a cs + linguistics student at the university of illinois at urbana champaign
 
