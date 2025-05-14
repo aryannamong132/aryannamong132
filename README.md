@@ -1,4 +1,8 @@
-## Hi there 👋
+## welcome
+
+my name is aryanna and i'm a cs + linguistics student at the university of illinois at urbana champaign
+
+
 
 <!--
 **aryannamong132/aryannamong132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
